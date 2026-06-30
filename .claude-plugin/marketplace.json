@@ -1,0 +1,18 @@
+{
+  "name": "craftwave-skill-6-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "团体邮轮旅行方案 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "craftwave-skill-6",
+      "source": "./plugins/craftwave-skill-6",
+      "description": "为公司团体或组织提供邮轮旅行方案，适合团队出行的需求，制定专属的邮轮产品。",
+      "version": "0.1.0"
+    }
+  ]
+}
